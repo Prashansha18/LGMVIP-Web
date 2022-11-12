@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./App.css";
 import Home from "./Home";
-import Load from "./Load";
-import Card from "./Card";
+import Load from "./Test";
+import Card from "./Box";
 
 function App() {
   const [fetchData, setfetchData] = useState(false);
